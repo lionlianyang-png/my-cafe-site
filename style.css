@@ -1,10 +1,11 @@
 /* ====== 全体 ====== */
+/* ====== 全体 ====== */
 body {
   font-family: "Noto Sans JP", sans-serif;
   margin: 0;
-  background-color:  #000000;
-  color: #ffffff;
-  line-height: 1.7;
+  background-color: #000000; /* 背景を黒に */
+  color: #ffffff;            /* 文字を白に */
+  line-height: 1.7;          /* ← 全角スペースを削除（ここが重要） */
 }
 
 /* ====== ヘッダー ====== */
